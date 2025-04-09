@@ -5,6 +5,9 @@ show_downloads: true # or false to indicate whether to provide a download URL
 # Theme
 theme: jekyll-theme-minimal
 
+# Optional - Custom logo or favicon
+logo: /assets/img/profile.jpg
+favicon: /assets/img/favicon.ico
 
 # remote_theme: pages-themes/minimal@v0.2.0
 
@@ -12,6 +15,3 @@ theme: jekyll-theme-minimal
 # markdown: kramdown
 # permalink: pretty
 
-# Optional - Custom logo or favicon
-# logo: /assets/img/profile.jpg
-# favicon: /assets/img/favicon.ico
