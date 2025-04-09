@@ -1,1 +1,17 @@
+title: "Derrick Park"
+description: >-
+  Data Science Portfolio – Projects, Resume, and Skills.
+show_downloads: true # or false to indicate whether to provide a download URL
+# Theme
+theme: jekyll-theme-minimal
 
+
+# remote_theme: pages-themes/minimal@v0.2.0
+
+# Build settings
+# markdown: kramdown
+# permalink: pretty
+
+# Optional - Custom logo or favicon
+# logo: /assets/img/profile.jpg
+# favicon: /assets/img/favicon.ico
